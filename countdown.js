@@ -14,6 +14,6 @@ function getCountDown() {
 
 
     document.getElementById("displaycount").innerHTML = Math.floor(result / 86400000) + " " + refhrs + " " + refmnts + " " + refsec;
-
+document.write("hi");
 
 }
