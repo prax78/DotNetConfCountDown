@@ -87,3 +87,10 @@ h1 {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+#note2 {
+    text-align: center;
+    font-family: 'Chivo Mono', monospace;
+    font-size: large;
+    font-weight: bold;
+}
