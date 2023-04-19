@@ -72,8 +72,11 @@ a:visited {
     font-size: x-large;
 }
 
-#para {
+#para,#note,#note1 {
     text-align: center;
+    font-family: 'Chivo Mono', monospace;
+    font-size: large;
+    color: antiquewhite;
 }
 
 h1 {
