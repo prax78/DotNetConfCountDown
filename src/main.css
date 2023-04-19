@@ -75,7 +75,7 @@ a:visited {
 #para,#note,#note1 {
     text-align: center;
     font-family: 'Chivo Mono', monospace;
-    font-size: medium;
+    font-size: smaller;
     color: antiquewhite;
 }
 
